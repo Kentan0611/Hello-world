@@ -1,2 +1,2 @@
 # Hello-world
-Starting new demo proect
+Starting new demo project
